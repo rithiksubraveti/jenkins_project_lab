@@ -4,4 +4,8 @@
   <artifactId>customer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>CustomerCare</name>
+  <properties>
+  <sonar.organization>jenkins-pipline-demo</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>

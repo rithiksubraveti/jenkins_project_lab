@@ -5,6 +5,8 @@ public class Customer {
 	{
 		System.out.println("Hey!");
 		System.out.println("Checking the build");
+		System.out.println("Checking the sonarcloud functionality");
+		
 	}
 
 }
